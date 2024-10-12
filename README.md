@@ -10,3 +10,5 @@ Initially it was just plain HTML and a sequence of steps to navigate but quickly
 My goal was to keep it simple enough that an under 10 year old could copy and paste locations and change the text to make up their own story.  I didn't want learning a framework or managing dependencies to get in the way of the creativity.
 
 I've tested it in Firefox on Linux but that's all, there are some weird edge-cases when using `file://` URLs and storage APIs so it may not work on other platforms.
+
+If you're viewing this on GitHub, you can try out a live demo of the game by visiting [GitHub Pages](https://hairymnstr.github.io/html_adventure).
